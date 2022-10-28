@@ -10,7 +10,7 @@ class Model {
     this.phone = this.phoneno;
     }
     }
-    
+
     class Controller {
      constructor(model) {
      this.model = model;
@@ -92,13 +92,4 @@ class Model {
     }
     
     main();
-
-
-
-
-
-
-
-
-
 
