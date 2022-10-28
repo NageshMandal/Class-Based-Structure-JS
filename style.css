@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.title{
+    font-size: 30px;
+    color: rgb(0, 242, 242);
+    font-family:sans-serif;
+    margin: 10px;
+}
+.idcard p {
+    padding:15px;
+}
+.idcard{
+    margin-top:30px;
+}
+.input{
+    display:flex;
+    align-items:flex-start;
+    flex-direction: column;
+}
+.input input{
+    padding:0.3rem;
+    margin:8px;
+}
+button{
+    margin:20px;
+    padding-right: 15px;
+    padding-left:15px;
+    cursor: pointer;
+}
